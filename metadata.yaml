@@ -1,0 +1,51 @@
+_repo: The-treatise-of-Lorenzo-Valla-on-the-Donation-of-Constantine_70092
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Coleman, Christopher Bush
+    alias: Coleman, Christopher B.
+    birthdate: 1875
+    deathdate: 1944
+    gutenberg_agent_id: '55595'
+    url: http://www.gutenberg.org/2009/agents/55595
+creator:
+  author:
+    agent_name: Valla, Lorenzo
+    aliases:
+    - Delle Valla, Lorenzo
+    - Della Valle, Lorenzo
+    - De Valle, Lorenzo
+    - Vallati, Lorenzo
+    - Valle, Lorenzo
+    - Vallensis, Laurentius
+    birthdate: 1407
+    deathdate: 1457
+    gutenberg_agent_id: '55594'
+    url: http://www.gutenberg.org/2009/agents/55594
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Lorenzo_Valla
+    - https://en.wikipedia.org/wiki/Lorenzo_Valla
+description: ''
+gutenberg_issued: '2023-02-20'
+identifiers:
+  gutenberg: '70092'
+  lccn: '22013342'
+language: en
+pgterms:marc904: https://archive.org/details/treatiseoflorenz00valluoft
+pgterms:marc905: 20200710083218valla
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bYale University Press, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Constitutum Constantini'
+- !lcsh 'Popes -- Temporal power -- Early works to 1800'
+- !lcsh 'Church and state -- Holy Roman Empire'
+- !lcc 'BX'
+- GITenberg
+title: The treatise of Lorenzo Valla on the Donation of Constantine
+url: http://www.gutenberg.org/ebooks/70092
